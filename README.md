@@ -4,7 +4,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Nour Elhouda Boumaiza</h1>
   <h3>A passionate fullstack developer from Tunisia TN</h3>
-
+</div>
   <p>All of my projects are available at <a href="https://github.com/nourelhoudabmz">my GitHub</a></p>
   <p>🌱 I’m currently learning DevOps</p>
   <p>📫 How to reach me: <a href="mailto:Nourelhouda.iot@gmail.com">Nourelhouda.iot@gmail.com</a></p>
@@ -17,7 +17,7 @@
     <a href="https://facebook.com/nour.elhouda.boumaiza"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     
   </div>
-</div>
+
 
 
 
