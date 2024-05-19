@@ -20,4 +20,5 @@
 
 
 
+![Nour GitHub stats](https://github-readme-stats.vercel.app/api?username=homrani&show_icons=true&theme=radical)
 
