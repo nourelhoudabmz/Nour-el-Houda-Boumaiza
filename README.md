@@ -35,8 +35,22 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 
+### Languages and Tools:
 
-
+<img src="URL_to_Angular_icon" width="40" height="40"/>
+<img src="URL_to_AWS_icon" width="40" height="40"/>
+<img src="URL_to_Bootstrap_icon" width="40" height="40"/>
+<img src="URL_to_C#_icon" width="40" height="40"/>
+<img src="URL_to_CSS3_icon" width="40" height="40"/>
+<img src="URL_to_Docker_icon" width="40" height="40"/>
+<img src="URL_to_.NET_icon" width="40" height="40"/>
+<img src="URL_to_Node.js_icon" width="40" height="40"/>
+<img src="URL_to_MongoDB_icon" width="40" height="40"/>
+<img src="URL_to_MySQL_icon" width="40" height="40"/>
+<img src="URL_to_Oracle_icon" width="40" height="40"/>
+<img src="URL_to_PHP_icon" width="40" height="40"/>
+<img src="URL_to_PostgreSQL_icon" width="40" height="40"/>
+<img src="URL_to_React_icon" width="40" height="40"/>
 
 # Hello, I'm Nour Elhouda
 
