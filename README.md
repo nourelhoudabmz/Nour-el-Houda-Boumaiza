@@ -17,7 +17,7 @@
     <a href="https://facebook.com/nour.elhouda.boumaiza"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     
   </div>
-  ![](https://img.shields.io/badge/<Label>-<Message>-<Color>?style=flat-square&logo=<LogoName>&logoColor=white)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homrani&layout=compact)
 
 
 
