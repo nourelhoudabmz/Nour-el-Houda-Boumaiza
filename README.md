@@ -20,5 +20,9 @@
 
 
 
-![Nour GitHub stats](https://github-readme-stats.vercel.app/api?username=homrani&show_icons=true&theme=radical)
+# Hello, I'm Nour Elhouda
+
+## 📈 My GitHub Stats
+![Nour GitHub stats](https://github-readme-stats.vercel.app/api?username=nourelhoudabmz&show_icons=true&theme=radical)
+
 
