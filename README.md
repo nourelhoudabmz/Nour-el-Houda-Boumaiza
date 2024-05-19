@@ -8,7 +8,7 @@
   <p>All of my projects are available at <a href="https://github.com/nourelhoudabmz">my GitHub</a></p>
   <p>🌱 I’m currently learning DevOps</p>
   <p>📫 How to reach me: <a href="mailto:Nourelhouda.iot@gmail.com">Nourelhouda.iot@gmail.com</a></p>
-  <p>👔 <a href="https://www.linkedin.com/in/nour-elhouda-boumaiza">LinkedIn Profile</a></p>
+  <p>👔 Know about my experiences <a href="https://www.linkedin.com/in/nour-elhouda-boumaiza">LinkedIn Profile</a></p>
   <p>😄 Fun fact: I am Funny</p>
 
   <div>
